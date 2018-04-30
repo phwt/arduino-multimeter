@@ -9,3 +9,7 @@ Sketch to read and display temperature or humidity to LED screen. (Toggle with b
 - Toggle Switch
 
 Models I used for this project is in parentheses
+
+## How to use
+
+WIP
